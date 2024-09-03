@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://raw.githubusercontent.com/andyuan997/andyuan997/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/andyuan997/andyuan997/output/github-contribution-grid-snake.svg
+)
 
