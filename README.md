@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Snake animation](https://github.com/andyuan997/snake.yml/blob/output/snake.svg)
+![Snake animation](https://github.com/andyuan997/.github/blob/output/snake.svg)
