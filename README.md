@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Snake animation](https://github.com/andyuan997/snake.yml/blob/output/snake.svg)
+
+![](https://raw.githubusercontent.com/andyuan997/andyuan997/output/github-contribution-grid-snake.svg)
+
